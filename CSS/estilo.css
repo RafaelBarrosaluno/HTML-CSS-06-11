@@ -1,0 +1,11 @@
+/* Para ID coloca o "#" para o class coloca o "." */
+#principal{
+    width:1200px;
+    height:1000px;
+    border:1px solid #000;
+    position: relative;
+    margin:auto;
+}
+p{
+    text-align: center;
+}
